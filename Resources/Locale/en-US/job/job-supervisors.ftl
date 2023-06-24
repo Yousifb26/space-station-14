@@ -1,7 +1,7 @@
 ﻿job-supervisors-centcom = CentCom official
 job-supervisors-captain = the captain
 job-supervisors-hop = the head of personnel
-job-supervisors-hop-qm = the quartermaster and head of personnel
+job-supervisors-hop-qm = the quartermaster
 job-supervisors-hos = the head of security
 job-supervisors-ce = the chief engineer
 job-supervisors-cmo = the chief medical officer
