@@ -360,7 +360,7 @@
   description: uplink-emag-desc
   productEntity: Emag
   cost:
-    Telecrystal: 8
+    Telecrystal: 12
   categories:
   - UplinkUtility
 
